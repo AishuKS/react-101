@@ -8,7 +8,7 @@ function UserGreeting(props){
     const loginPrompt = <h2 className="login-prompt">Please Log in</h2>
 
     return(
-        props.isLoggedIn ? welcomeMessage : loginPrompt
+        props.isLoggedIn ? welcomeMessage : loginPrompt 
     )
 }
 
