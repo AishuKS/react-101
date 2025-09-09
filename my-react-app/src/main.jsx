@@ -1,10 +1,10 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
-import AppLesson7 from './Lesson-7 Click Events/AppLesson7.jsx'
+import AppLesson8 from './Lesson-8 Use State/AppLesson8.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <AppLesson7/>
+    <AppLesson8/>
   </StrictMode>,
 )
