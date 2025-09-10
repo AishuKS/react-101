@@ -1,11 +1,11 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
-import AppLesson11 from './Lesson-11 Updater Function/AppLesson11.jsx'
+import AppLesson12 from './Lesson-12 Update Objects in State/AppLesson12.jsx'
 
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <AppLesson11/>
+    <AppLesson12/>
   </StrictMode>
 )
