@@ -1,11 +1,11 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
-import AppLesson13 from './Lesson-13 Update State of Array/AppLesson13.jsx'
+import AppLesson14 from './Lesson-14 Update Array of Objects/AppLesson14.jsx'
 
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <AppLesson13/>
+    <AppLesson14/>
   </StrictMode>
 )
